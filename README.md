@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fishball
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
-- 📫 Just inbox my 
+- 📫 Just inbox me
 - 
 .
 
